@@ -75,7 +75,20 @@
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "chatbutton": {},
+    "global_header_custom": "<script>\nwindow.Futy = { key: '66741d39796e8' };\n(function (e, t) {\n    var n = e.createElement(t);\n    n.async = true;\n    var f = window.Promise && window.fetch ? 'modern.js' : 'legacy.js';\n    n.src = 'https://v1.widget.futy.io/js/futy-widget-' + f;\n    var r = e.getElementsByTagName(t)[0];\n    r.parentNode.insertBefore(n, r);\n})(document, 'script');\n</script>",
+    "favicon": false,
+    "mbrsiteDomain": "lhofgtr3hq",
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
