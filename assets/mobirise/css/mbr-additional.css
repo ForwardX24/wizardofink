@@ -1961,22 +1961,19 @@ img {
   text-align: center;
   color: #1e1d1c;
 }
-#custom-html-e {
-  /* Type valid CSS here */
-}
-#custom-html-e div {
+#custom-html-2f div {
   padding: 0px 0;
   color: #777;
   text-align: center;
   background-color: black;
   /* Voeg deze regel toe om de achtergrond zwart te maken */
 }
-#custom-html-e p {
+#custom-html-2f p {
   font-size: 60px;
   color: #777;
 }
 .cid-ugCA4qiiEm {
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
